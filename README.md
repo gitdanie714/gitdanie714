@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**gitdanie714/gitdanie714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Danie Tech 🌸
 
-Here are some ideas to get you started:
+Hi, I'm Daniella 👋  
+Frontend developer building clean and responsive web and mobile apps with React and React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 💻 I build responsive and user-friendly web and mobile applications  
+- 🌱 Currently learning and improving my frontend skills  
+- ⚡ Focused on writing clean and simple code  
+
+---
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS / Tailwind CSS  
+- JavaScript  
+- React
+- React Native
+
+---
+
+## 📂 Projects
+Here are some of my projects:
+
+- 🔗 [E-commerce Website](https://scentara-nine.vercel.app) — A perfume store built solo with React and Tailwind — product pages, cart, and checkout. Live.
+- [Code](https://github.com/gitdanie714/Scentara)
+- 🔗 [AI-Powered Meeting App](https://thebeamapp.vercel.app) — A web app that uses AI to enhance meetings, built collaboratively with a team of four. Live.
+- [Code](https://github.com/gitdanie714/beam-frontend-v1)
+- 🔗 [Brand-to-User App] — An app bridging the gap between brands and their audiences. Built solo. In progress.
+- [Ongoing]
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/gitdanie714  
+- LinkedIn: https://linkedin.com/in/yourusername  
+
+---
+
+✨ *Building, learning, and growing one project at a time.* 
