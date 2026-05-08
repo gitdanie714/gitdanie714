@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Danie Tech 🌸
-
 Hi, I'm Daniella 👋  
 Frontend developer building clean and responsive web and mobile apps with React and React Native.
 
