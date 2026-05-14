@@ -28,7 +28,7 @@ Here are some of my projects:
 - [Code](https://github.com/gitdanie714/Scentara)
 - 🔗 [AI-Powered Meeting App](https://thebeamapp.vercel.app) — A web app that uses AI to enhance meetings, built collaboratively with a team of four. Live.
 - [Code](https://github.com/gitdanie714/beam-frontend-v1)
-- 🔗 [Brand-to-User App] — An app bridging the gap between brands and their audiences. Built solo. In progress.
+- 🔗 ##Inlo — An app bridging the gap between brands and their audiences. Built solo. In progress.
 - [Ongoing]
 ---
 
